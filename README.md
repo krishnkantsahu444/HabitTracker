@@ -88,8 +88,7 @@ Habit Tracker
 ![image](https://user-images.githubusercontent.com/90390855/235321481-07590d82-d2ae-435a-aff9-ecc9a84a188a.png)
 ### Sign-in Page
 ![image](https://user-images.githubusercontent.com/90390855/235321490-3973cbbd-4d22-433b-8dda-72c3d19d5236.png)
-### Weekly View Page
-![image](https://user-images.githubusercontent.com/90390855/235321501-b4b7aa59-249e-43a7-87f6-a212d92d831a.png)
+
 
 
 
